@@ -7,6 +7,11 @@ Implementation of the [CoMospeech](https://arxiv.org/pdf/2305.06908.pdf). For al
 **Authors**: Zhen Ye, Wei Xue, Xu Tan, Jie Chen, Qifeng Liu, Yike Guo.
 
 # Update
+**2024-04-26**  
+
+ 
+
+- We  propose **FlashSpeech**, an efficient zero-shot speech synthesizer  based on the latent consistency model and adversarial training. ([Paper](https://arxiv.org/abs/2404.14700)). 
 
 **2023-12-01**  
 
